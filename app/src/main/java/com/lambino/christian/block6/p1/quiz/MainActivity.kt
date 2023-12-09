@@ -1,6 +1,7 @@
 package com.lambino.christian.block6.p1.quiz
 
 import android.os.Bundle
+import android.widget.EditText
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
